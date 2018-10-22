@@ -1,0 +1,135 @@
+﻿@model IEnumerable<string>
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Statistics</h2>
+<link rel="stylesheet" href="../../Content/rickshaw.min.css">
+<script src="/Scripts/jquery-3.3.1.js"></script>
+<script src="/Scripts/d3.v3.js"></script>
+<script src="/Scripts/rickshaw.min.js"></script>
+
+<style>
+    #chart_container {
+        position: relative;
+        font-family: Arial, Helvetica, sans-serif;
+    }
+
+    #chart {
+        position: relative;
+        left: 40px;
+    }
+
+    #y_axis {
+        position: absolute;
+        top: 0;
+        bottom: 0;
+        width: 40px;
+    }
+</style>
+
+<div id="chart_container">
+    <div id="y_axis"></div>
+    <div id="chart"></div>
+</div>
+<br />
+<div>
+    @Html.DropDownList("Currencies", new SelectList(Model), new { id = "currencies" })
+</div>
+
+<div>
+    <button id="btnPlot" type="submit">Plot</button>
+</div>
+
+<script>
+    var seriesData = [{x:0, y:0}];
+
+    var graph = new Rickshaw.Graph({
+        element: document.querySelector("#chart"),
+        renderer: 'line',
+        width: 1000,
+        height: 400,
+        series: [{
+            color: 'steelblue',
+            data: seriesData,
+            name: 'rate'
+        }],
+    });
+
+    var hoverDetail = new Rickshaw.Graph.HoverDetail({
+        graph: graph,
+        formatter: function (series, x, y) {
+            var date = new Date(x*1000).getDate() + "-" + (new Date(x*1000).getMonth() + 1) +
+                                                 "-" + new Date(x*1000).getFullYear();
+            var content = series.name + ": " + parseFloat(y) + ' /€' + '<br>' + date;
+            return content;
+        }
+    });
+
+    var _x_axis = new Rickshaw.Graph.Axis.Time({
+        graph: graph,
+    });
+
+    var y_axis = new Rickshaw.Graph.Axis.Y({
+        graph: graph,
+        orientation: 'left',
+        tickFormat: function (y) { return y.toPrecision(3) },
+        element: document.getElementById('y_axis'),
+    });
+
+    graph.render();
+
+    $('#btnPlot').click(function () {
+        $.ajax({
+            url: '@Url.Action("CurrencyHistory", "Statistics")',
+            data: { currency: $("#currencies").val() },
+            type: 'POST',
+            success: function (data) {
+
+                seriesData.length = 0;
+
+                for (var c in data)
+                {
+                    if (data.hasOwnProperty(c)) {
+
+                        seriesData.push({
+                            x: c / 1000,
+                            y: data[c]
+                        });
+                    }
+                }
+                graph.configure({
+                    min: (arrayMin(seriesData)) * 0.98,
+                    max: (arrayMax(seriesData)) * 1.02
+                });
+
+                graph.update();
+            }
+        });
+    });
+
+    // Helper function to determine Y axes min and Max values
+    function arrayMin(arr) {
+        var min = arr[0]["y"];
+        for (var i = 1; i < arr.length; i++) {
+            if (arr[i]["y"]<min) {
+                min = arr[i]["y"];
+            }
+        }
+        return min;
+    };
+
+    function arrayMax(arr) {
+        var max = arr[0]["y"];
+        for (var i = 1; i < arr.length; i++) {
+            if (arr[i]["y"]>max) {
+                max = arr[i]["y"];
+            }
+        }
+        return max;
+    };
+
+
+
+</script>

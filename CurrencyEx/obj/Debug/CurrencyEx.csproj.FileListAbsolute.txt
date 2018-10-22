@@ -1,0 +1,330 @@
+c:\users\8570p\documents\visual studio 2015\Projects\CurrencyEx\CurrencyEx\bin\ApplicationInsights.config
+c:\users\8570p\documents\visual studio 2015\Projects\CurrencyEx\CurrencyEx\bin\roslyn\csc.exe
+c:\users\8570p\documents\visual studio 2015\Projects\CurrencyEx\CurrencyEx\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\8570p\documents\visual studio 2015\Projects\CurrencyEx\CurrencyEx\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\8570p\documents\visual studio 2015\Projects\CurrencyEx\CurrencyEx\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\8570p\documents\visual studio 2015\Projects\CurrencyEx\CurrencyEx\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\8570p\documents\visual studio 2015\Projects\CurrencyEx\CurrencyEx\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\8570p\documents\visual studio 2015\Projects\CurrencyEx\CurrencyEx\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\8570p\documents\visual studio 2015\Projects\CurrencyEx\CurrencyEx\bin\roslyn\System.Collections.Immutable.dll
+c:\users\8570p\documents\visual studio 2015\Projects\CurrencyEx\CurrencyEx\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\8570p\documents\visual studio 2015\Projects\CurrencyEx\CurrencyEx\bin\roslyn\vbc.exe
+c:\users\8570p\documents\visual studio 2015\Projects\CurrencyEx\CurrencyEx\bin\roslyn\VBCSCompiler.exe
+c:\users\8570p\documents\visual studio 2015\Projects\CurrencyEx\CurrencyEx\bin\roslyn\VBCSCompiler.exe.config
+c:\users\8570p\documents\visual studio 2015\Projects\CurrencyEx\CurrencyEx\bin\CurrencyEx.dll.config
+c:\users\8570p\documents\visual studio 2015\Projects\CurrencyEx\CurrencyEx\bin\CurrencyEx.dll
+c:\users\8570p\documents\visual studio 2015\Projects\CurrencyEx\CurrencyEx\bin\CurrencyEx.pdb
+c:\users\8570p\documents\visual studio 2015\Projects\CurrencyEx\CurrencyEx\bin\Antlr3.Runtime.dll
+c:\users\8570p\documents\visual studio 2015\Projects\CurrencyEx\CurrencyEx\bin\EntityFramework.dll
+c:\users\8570p\documents\visual studio 2015\Projects\CurrencyEx\CurrencyEx\bin\EntityFramework.SqlServer.dll
+c:\users\8570p\documents\visual studio 2015\Projects\CurrencyEx\CurrencyEx\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\8570p\documents\visual studio 2015\Projects\CurrencyEx\CurrencyEx\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\8570p\documents\visual studio 2015\Projects\CurrencyEx\CurrencyEx\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\8570p\documents\visual studio 2015\Projects\CurrencyEx\CurrencyEx\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\8570p\documents\visual studio 2015\Projects\CurrencyEx\CurrencyEx\bin\Microsoft.AI.Web.dll
+c:\users\8570p\documents\visual studio 2015\Projects\CurrencyEx\CurrencyEx\bin\Microsoft.AI.WindowsServer.dll
+c:\users\8570p\documents\visual studio 2015\Projects\CurrencyEx\CurrencyEx\bin\Microsoft.ApplicationInsights.dll
+c:\users\8570p\documents\visual studio 2015\Projects\CurrencyEx\CurrencyEx\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\8570p\documents\visual studio 2015\Projects\CurrencyEx\CurrencyEx\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\8570p\documents\visual studio 2015\Projects\CurrencyEx\CurrencyEx\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\8570p\documents\visual studio 2015\Projects\CurrencyEx\CurrencyEx\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\8570p\documents\visual studio 2015\Projects\CurrencyEx\CurrencyEx\bin\Microsoft.Owin.dll
+c:\users\8570p\documents\visual studio 2015\Projects\CurrencyEx\CurrencyEx\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\8570p\documents\visual studio 2015\Projects\CurrencyEx\CurrencyEx\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\8570p\documents\visual studio 2015\Projects\CurrencyEx\CurrencyEx\bin\Microsoft.Owin.Security.dll
+c:\users\8570p\documents\visual studio 2015\Projects\CurrencyEx\CurrencyEx\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\8570p\documents\visual studio 2015\Projects\CurrencyEx\CurrencyEx\bin\Microsoft.Owin.Security.Google.dll
+c:\users\8570p\documents\visual studio 2015\Projects\CurrencyEx\CurrencyEx\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\8570p\documents\visual studio 2015\Projects\CurrencyEx\CurrencyEx\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\8570p\documents\visual studio 2015\Projects\CurrencyEx\CurrencyEx\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\8570p\documents\visual studio 2015\Projects\CurrencyEx\CurrencyEx\bin\Microsoft.Web.Infrastructure.dll
+c:\users\8570p\documents\visual studio 2015\Projects\CurrencyEx\CurrencyEx\bin\Newtonsoft.Json.dll
+c:\users\8570p\documents\visual studio 2015\Projects\CurrencyEx\CurrencyEx\bin\Owin.dll
+c:\users\8570p\documents\visual studio 2015\Projects\CurrencyEx\CurrencyEx\bin\System.Web.Helpers.dll
+c:\users\8570p\documents\visual studio 2015\Projects\CurrencyEx\CurrencyEx\bin\System.Web.Mvc.dll
+c:\users\8570p\documents\visual studio 2015\Projects\CurrencyEx\CurrencyEx\bin\System.Web.Optimization.dll
+c:\users\8570p\documents\visual studio 2015\Projects\CurrencyEx\CurrencyEx\bin\System.Web.Razor.dll
+c:\users\8570p\documents\visual studio 2015\Projects\CurrencyEx\CurrencyEx\bin\System.Web.WebPages.Deployment.dll
+c:\users\8570p\documents\visual studio 2015\Projects\CurrencyEx\CurrencyEx\bin\System.Web.WebPages.dll
+c:\users\8570p\documents\visual studio 2015\Projects\CurrencyEx\CurrencyEx\bin\System.Web.WebPages.Razor.dll
+c:\users\8570p\documents\visual studio 2015\Projects\CurrencyEx\CurrencyEx\bin\WebGrease.dll
+c:\users\8570p\documents\visual studio 2015\Projects\CurrencyEx\CurrencyEx\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\8570p\documents\visual studio 2015\Projects\CurrencyEx\CurrencyEx\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\8570p\documents\visual studio 2015\Projects\CurrencyEx\CurrencyEx\bin\Microsoft.AI.Web.xml
+c:\users\8570p\documents\visual studio 2015\Projects\CurrencyEx\CurrencyEx\bin\Microsoft.AI.WindowsServer.xml
+c:\users\8570p\documents\visual studio 2015\Projects\CurrencyEx\CurrencyEx\bin\Microsoft.ApplicationInsights.xml
+c:\users\8570p\documents\visual studio 2015\Projects\CurrencyEx\CurrencyEx\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\8570p\documents\visual studio 2015\Projects\CurrencyEx\CurrencyEx\bin\System.Web.Helpers.xml
+c:\users\8570p\documents\visual studio 2015\Projects\CurrencyEx\CurrencyEx\bin\System.Web.Mvc.xml
+c:\users\8570p\documents\visual studio 2015\Projects\CurrencyEx\CurrencyEx\bin\System.Web.Optimization.xml
+c:\users\8570p\documents\visual studio 2015\Projects\CurrencyEx\CurrencyEx\bin\System.Web.Razor.xml
+c:\users\8570p\documents\visual studio 2015\Projects\CurrencyEx\CurrencyEx\bin\System.Web.WebPages.xml
+c:\users\8570p\documents\visual studio 2015\Projects\CurrencyEx\CurrencyEx\bin\System.Web.WebPages.Deployment.xml
+c:\users\8570p\documents\visual studio 2015\Projects\CurrencyEx\CurrencyEx\bin\System.Web.WebPages.Razor.xml
+c:\users\8570p\documents\visual studio 2015\Projects\CurrencyEx\CurrencyEx\bin\Antlr3.Runtime.pdb
+c:\users\8570p\documents\visual studio 2015\Projects\CurrencyEx\CurrencyEx\bin\Newtonsoft.Json.xml
+c:\users\8570p\documents\visual studio 2015\Projects\CurrencyEx\CurrencyEx\bin\EntityFramework.xml
+c:\users\8570p\documents\visual studio 2015\Projects\CurrencyEx\CurrencyEx\bin\EntityFramework.SqlServer.xml
+c:\users\8570p\documents\visual studio 2015\Projects\CurrencyEx\CurrencyEx\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\8570p\documents\visual studio 2015\Projects\CurrencyEx\CurrencyEx\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\8570p\documents\visual studio 2015\Projects\CurrencyEx\CurrencyEx\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\8570p\documents\visual studio 2015\Projects\CurrencyEx\CurrencyEx\bin\Microsoft.Owin.xml
+c:\users\8570p\documents\visual studio 2015\Projects\CurrencyEx\CurrencyEx\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\8570p\documents\visual studio 2015\Projects\CurrencyEx\CurrencyEx\bin\Microsoft.Owin.Security.xml
+c:\users\8570p\documents\visual studio 2015\Projects\CurrencyEx\CurrencyEx\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\8570p\documents\visual studio 2015\Projects\CurrencyEx\CurrencyEx\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\8570p\documents\visual studio 2015\Projects\CurrencyEx\CurrencyEx\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\8570p\documents\visual studio 2015\Projects\CurrencyEx\CurrencyEx\bin\Microsoft.Owin.Security.Google.xml
+c:\users\8570p\documents\visual studio 2015\Projects\CurrencyEx\CurrencyEx\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\8570p\documents\visual studio 2015\Projects\CurrencyEx\CurrencyEx\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\8570p\documents\visual studio 2015\Projects\CurrencyEx\CurrencyEx\obj\Debug\CurrencyEx.csprojResolveAssemblyReference.cache
+c:\users\8570p\documents\visual studio 2015\Projects\CurrencyEx\CurrencyEx\obj\Debug\CurrencyEx.dll
+c:\users\8570p\documents\visual studio 2015\Projects\CurrencyEx\CurrencyEx\obj\Debug\CurrencyEx.pdb
+C:\Users\8570p\Documents\Visual Studio 2015\Projects\CurrencyExFinal\CurrencyEx\bin\ApplicationInsights.config
+C:\Users\8570p\Documents\Visual Studio 2015\Projects\CurrencyExFinal\CurrencyEx\bin\roslyn\csc.exe
+C:\Users\8570p\Documents\Visual Studio 2015\Projects\CurrencyExFinal\CurrencyEx\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\8570p\Documents\Visual Studio 2015\Projects\CurrencyExFinal\CurrencyEx\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\8570p\Documents\Visual Studio 2015\Projects\CurrencyExFinal\CurrencyEx\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\8570p\Documents\Visual Studio 2015\Projects\CurrencyExFinal\CurrencyEx\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\8570p\Documents\Visual Studio 2015\Projects\CurrencyExFinal\CurrencyEx\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\8570p\Documents\Visual Studio 2015\Projects\CurrencyExFinal\CurrencyEx\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\8570p\Documents\Visual Studio 2015\Projects\CurrencyExFinal\CurrencyEx\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\8570p\Documents\Visual Studio 2015\Projects\CurrencyExFinal\CurrencyEx\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\8570p\Documents\Visual Studio 2015\Projects\CurrencyExFinal\CurrencyEx\bin\roslyn\vbc.exe
+C:\Users\8570p\Documents\Visual Studio 2015\Projects\CurrencyExFinal\CurrencyEx\bin\roslyn\VBCSCompiler.exe
+C:\Users\8570p\Documents\Visual Studio 2015\Projects\CurrencyExFinal\CurrencyEx\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\8570p\Documents\Visual Studio 2015\Projects\CurrencyExFinal\CurrencyEx\bin\CurrencyEx.dll.config
+C:\Users\8570p\Documents\Visual Studio 2015\Projects\CurrencyExFinal\CurrencyEx\bin\CurrencyEx.dll
+C:\Users\8570p\Documents\Visual Studio 2015\Projects\CurrencyExFinal\CurrencyEx\bin\CurrencyEx.pdb
+C:\Users\8570p\Documents\Visual Studio 2015\Projects\CurrencyExFinal\CurrencyEx\bin\Antlr3.Runtime.dll
+C:\Users\8570p\Documents\Visual Studio 2015\Projects\CurrencyExFinal\CurrencyEx\bin\EntityFramework.dll
+C:\Users\8570p\Documents\Visual Studio 2015\Projects\CurrencyExFinal\CurrencyEx\bin\EntityFramework.SqlServer.dll
+C:\Users\8570p\Documents\Visual Studio 2015\Projects\CurrencyExFinal\CurrencyEx\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\8570p\Documents\Visual Studio 2015\Projects\CurrencyExFinal\CurrencyEx\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\8570p\Documents\Visual Studio 2015\Projects\CurrencyExFinal\CurrencyEx\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\8570p\Documents\Visual Studio 2015\Projects\CurrencyExFinal\CurrencyEx\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\8570p\Documents\Visual Studio 2015\Projects\CurrencyExFinal\CurrencyEx\bin\Microsoft.AI.Web.dll
+C:\Users\8570p\Documents\Visual Studio 2015\Projects\CurrencyExFinal\CurrencyEx\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\8570p\Documents\Visual Studio 2015\Projects\CurrencyExFinal\CurrencyEx\bin\Microsoft.ApplicationInsights.dll
+C:\Users\8570p\Documents\Visual Studio 2015\Projects\CurrencyExFinal\CurrencyEx\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\8570p\Documents\Visual Studio 2015\Projects\CurrencyExFinal\CurrencyEx\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\8570p\Documents\Visual Studio 2015\Projects\CurrencyExFinal\CurrencyEx\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\8570p\Documents\Visual Studio 2015\Projects\CurrencyExFinal\CurrencyEx\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\8570p\Documents\Visual Studio 2015\Projects\CurrencyExFinal\CurrencyEx\bin\Microsoft.Owin.dll
+C:\Users\8570p\Documents\Visual Studio 2015\Projects\CurrencyExFinal\CurrencyEx\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\8570p\Documents\Visual Studio 2015\Projects\CurrencyExFinal\CurrencyEx\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\8570p\Documents\Visual Studio 2015\Projects\CurrencyExFinal\CurrencyEx\bin\Microsoft.Owin.Security.dll
+C:\Users\8570p\Documents\Visual Studio 2015\Projects\CurrencyExFinal\CurrencyEx\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\8570p\Documents\Visual Studio 2015\Projects\CurrencyExFinal\CurrencyEx\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\8570p\Documents\Visual Studio 2015\Projects\CurrencyExFinal\CurrencyEx\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\8570p\Documents\Visual Studio 2015\Projects\CurrencyExFinal\CurrencyEx\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\8570p\Documents\Visual Studio 2015\Projects\CurrencyExFinal\CurrencyEx\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\8570p\Documents\Visual Studio 2015\Projects\CurrencyExFinal\CurrencyEx\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\8570p\Documents\Visual Studio 2015\Projects\CurrencyExFinal\CurrencyEx\bin\Newtonsoft.Json.dll
+C:\Users\8570p\Documents\Visual Studio 2015\Projects\CurrencyExFinal\CurrencyEx\bin\Owin.dll
+C:\Users\8570p\Documents\Visual Studio 2015\Projects\CurrencyExFinal\CurrencyEx\bin\System.Web.Helpers.dll
+C:\Users\8570p\Documents\Visual Studio 2015\Projects\CurrencyExFinal\CurrencyEx\bin\System.Web.Mvc.dll
+C:\Users\8570p\Documents\Visual Studio 2015\Projects\CurrencyExFinal\CurrencyEx\bin\System.Web.Optimization.dll
+C:\Users\8570p\Documents\Visual Studio 2015\Projects\CurrencyExFinal\CurrencyEx\bin\System.Web.Razor.dll
+C:\Users\8570p\Documents\Visual Studio 2015\Projects\CurrencyExFinal\CurrencyEx\bin\System.Web.WebPages.Deployment.dll
+C:\Users\8570p\Documents\Visual Studio 2015\Projects\CurrencyExFinal\CurrencyEx\bin\System.Web.WebPages.dll
+C:\Users\8570p\Documents\Visual Studio 2015\Projects\CurrencyExFinal\CurrencyEx\bin\System.Web.WebPages.Razor.dll
+C:\Users\8570p\Documents\Visual Studio 2015\Projects\CurrencyExFinal\CurrencyEx\bin\WebGrease.dll
+C:\Users\8570p\Documents\Visual Studio 2015\Projects\CurrencyExFinal\CurrencyEx\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\8570p\Documents\Visual Studio 2015\Projects\CurrencyExFinal\CurrencyEx\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\8570p\Documents\Visual Studio 2015\Projects\CurrencyExFinal\CurrencyEx\bin\Microsoft.AI.Web.xml
+C:\Users\8570p\Documents\Visual Studio 2015\Projects\CurrencyExFinal\CurrencyEx\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\8570p\Documents\Visual Studio 2015\Projects\CurrencyExFinal\CurrencyEx\bin\Microsoft.ApplicationInsights.xml
+C:\Users\8570p\Documents\Visual Studio 2015\Projects\CurrencyExFinal\CurrencyEx\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\8570p\Documents\Visual Studio 2015\Projects\CurrencyExFinal\CurrencyEx\bin\System.Web.Helpers.xml
+C:\Users\8570p\Documents\Visual Studio 2015\Projects\CurrencyExFinal\CurrencyEx\bin\System.Web.Mvc.xml
+C:\Users\8570p\Documents\Visual Studio 2015\Projects\CurrencyExFinal\CurrencyEx\bin\System.Web.Optimization.xml
+C:\Users\8570p\Documents\Visual Studio 2015\Projects\CurrencyExFinal\CurrencyEx\bin\System.Web.Razor.xml
+C:\Users\8570p\Documents\Visual Studio 2015\Projects\CurrencyExFinal\CurrencyEx\bin\System.Web.WebPages.xml
+C:\Users\8570p\Documents\Visual Studio 2015\Projects\CurrencyExFinal\CurrencyEx\bin\System.Web.WebPages.Deployment.xml
+C:\Users\8570p\Documents\Visual Studio 2015\Projects\CurrencyExFinal\CurrencyEx\bin\System.Web.WebPages.Razor.xml
+C:\Users\8570p\Documents\Visual Studio 2015\Projects\CurrencyExFinal\CurrencyEx\bin\Antlr3.Runtime.pdb
+C:\Users\8570p\Documents\Visual Studio 2015\Projects\CurrencyExFinal\CurrencyEx\bin\Newtonsoft.Json.xml
+C:\Users\8570p\Documents\Visual Studio 2015\Projects\CurrencyExFinal\CurrencyEx\bin\EntityFramework.xml
+C:\Users\8570p\Documents\Visual Studio 2015\Projects\CurrencyExFinal\CurrencyEx\bin\EntityFramework.SqlServer.xml
+C:\Users\8570p\Documents\Visual Studio 2015\Projects\CurrencyExFinal\CurrencyEx\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\8570p\Documents\Visual Studio 2015\Projects\CurrencyExFinal\CurrencyEx\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\8570p\Documents\Visual Studio 2015\Projects\CurrencyExFinal\CurrencyEx\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\8570p\Documents\Visual Studio 2015\Projects\CurrencyExFinal\CurrencyEx\bin\Microsoft.Owin.xml
+C:\Users\8570p\Documents\Visual Studio 2015\Projects\CurrencyExFinal\CurrencyEx\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\8570p\Documents\Visual Studio 2015\Projects\CurrencyExFinal\CurrencyEx\bin\Microsoft.Owin.Security.xml
+C:\Users\8570p\Documents\Visual Studio 2015\Projects\CurrencyExFinal\CurrencyEx\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\8570p\Documents\Visual Studio 2015\Projects\CurrencyExFinal\CurrencyEx\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\8570p\Documents\Visual Studio 2015\Projects\CurrencyExFinal\CurrencyEx\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\8570p\Documents\Visual Studio 2015\Projects\CurrencyExFinal\CurrencyEx\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\8570p\Documents\Visual Studio 2015\Projects\CurrencyExFinal\CurrencyEx\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\8570p\Documents\Visual Studio 2015\Projects\CurrencyExFinal\CurrencyEx\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\8570p\Documents\Visual Studio 2015\Projects\CurrencyExFinal\CurrencyEx\obj\Debug\CurrencyEx.csprojResolveAssemblyReference.cache
+C:\Users\8570p\Documents\Visual Studio 2015\Projects\CurrencyExFinal\CurrencyEx\obj\Debug\CurrencyEx.dll
+C:\Users\8570p\Documents\Visual Studio 2015\Projects\CurrencyExFinal\CurrencyEx\obj\Debug\CurrencyEx.pdb
+C:\Users\jkoromi\Desktop\CurrencyEx\CurrencyExFinal\CurrencyEx\bin\ApplicationInsights.config
+C:\Users\jkoromi\Desktop\CurrencyEx\CurrencyExFinal\CurrencyEx\bin\roslyn\csc.exe
+C:\Users\jkoromi\Desktop\CurrencyEx\CurrencyExFinal\CurrencyEx\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\jkoromi\Desktop\CurrencyEx\CurrencyExFinal\CurrencyEx\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\jkoromi\Desktop\CurrencyEx\CurrencyExFinal\CurrencyEx\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\jkoromi\Desktop\CurrencyEx\CurrencyExFinal\CurrencyEx\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\jkoromi\Desktop\CurrencyEx\CurrencyExFinal\CurrencyEx\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\jkoromi\Desktop\CurrencyEx\CurrencyExFinal\CurrencyEx\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\jkoromi\Desktop\CurrencyEx\CurrencyExFinal\CurrencyEx\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\jkoromi\Desktop\CurrencyEx\CurrencyExFinal\CurrencyEx\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\jkoromi\Desktop\CurrencyEx\CurrencyExFinal\CurrencyEx\bin\roslyn\vbc.exe
+C:\Users\jkoromi\Desktop\CurrencyEx\CurrencyExFinal\CurrencyEx\bin\roslyn\VBCSCompiler.exe
+C:\Users\jkoromi\Desktop\CurrencyEx\CurrencyExFinal\CurrencyEx\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\jkoromi\Desktop\CurrencyEx\CurrencyExFinal\CurrencyEx\bin\CurrencyEx.dll.config
+C:\Users\jkoromi\Desktop\CurrencyEx\CurrencyExFinal\CurrencyEx\bin\CurrencyEx.dll
+C:\Users\jkoromi\Desktop\CurrencyEx\CurrencyExFinal\CurrencyEx\bin\CurrencyEx.pdb
+C:\Users\jkoromi\Desktop\CurrencyEx\CurrencyExFinal\CurrencyEx\bin\Antlr3.Runtime.dll
+C:\Users\jkoromi\Desktop\CurrencyEx\CurrencyExFinal\CurrencyEx\bin\EntityFramework.dll
+C:\Users\jkoromi\Desktop\CurrencyEx\CurrencyExFinal\CurrencyEx\bin\EntityFramework.SqlServer.dll
+C:\Users\jkoromi\Desktop\CurrencyEx\CurrencyExFinal\CurrencyEx\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\jkoromi\Desktop\CurrencyEx\CurrencyExFinal\CurrencyEx\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\jkoromi\Desktop\CurrencyEx\CurrencyExFinal\CurrencyEx\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\jkoromi\Desktop\CurrencyEx\CurrencyExFinal\CurrencyEx\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\jkoromi\Desktop\CurrencyEx\CurrencyExFinal\CurrencyEx\bin\Microsoft.AI.Web.dll
+C:\Users\jkoromi\Desktop\CurrencyEx\CurrencyExFinal\CurrencyEx\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\jkoromi\Desktop\CurrencyEx\CurrencyExFinal\CurrencyEx\bin\Microsoft.ApplicationInsights.dll
+C:\Users\jkoromi\Desktop\CurrencyEx\CurrencyExFinal\CurrencyEx\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\jkoromi\Desktop\CurrencyEx\CurrencyExFinal\CurrencyEx\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\jkoromi\Desktop\CurrencyEx\CurrencyExFinal\CurrencyEx\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\jkoromi\Desktop\CurrencyEx\CurrencyExFinal\CurrencyEx\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\jkoromi\Desktop\CurrencyEx\CurrencyExFinal\CurrencyEx\bin\Microsoft.Owin.dll
+C:\Users\jkoromi\Desktop\CurrencyEx\CurrencyExFinal\CurrencyEx\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\jkoromi\Desktop\CurrencyEx\CurrencyExFinal\CurrencyEx\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\jkoromi\Desktop\CurrencyEx\CurrencyExFinal\CurrencyEx\bin\Microsoft.Owin.Security.dll
+C:\Users\jkoromi\Desktop\CurrencyEx\CurrencyExFinal\CurrencyEx\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\jkoromi\Desktop\CurrencyEx\CurrencyExFinal\CurrencyEx\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\jkoromi\Desktop\CurrencyEx\CurrencyExFinal\CurrencyEx\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\jkoromi\Desktop\CurrencyEx\CurrencyExFinal\CurrencyEx\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\jkoromi\Desktop\CurrencyEx\CurrencyExFinal\CurrencyEx\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\jkoromi\Desktop\CurrencyEx\CurrencyExFinal\CurrencyEx\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\jkoromi\Desktop\CurrencyEx\CurrencyExFinal\CurrencyEx\bin\Newtonsoft.Json.dll
+C:\Users\jkoromi\Desktop\CurrencyEx\CurrencyExFinal\CurrencyEx\bin\Owin.dll
+C:\Users\jkoromi\Desktop\CurrencyEx\CurrencyExFinal\CurrencyEx\bin\System.Web.Helpers.dll
+C:\Users\jkoromi\Desktop\CurrencyEx\CurrencyExFinal\CurrencyEx\bin\System.Web.Mvc.dll
+C:\Users\jkoromi\Desktop\CurrencyEx\CurrencyExFinal\CurrencyEx\bin\System.Web.Optimization.dll
+C:\Users\jkoromi\Desktop\CurrencyEx\CurrencyExFinal\CurrencyEx\bin\System.Web.Razor.dll
+C:\Users\jkoromi\Desktop\CurrencyEx\CurrencyExFinal\CurrencyEx\bin\System.Web.WebPages.Deployment.dll
+C:\Users\jkoromi\Desktop\CurrencyEx\CurrencyExFinal\CurrencyEx\bin\System.Web.WebPages.dll
+C:\Users\jkoromi\Desktop\CurrencyEx\CurrencyExFinal\CurrencyEx\bin\System.Web.WebPages.Razor.dll
+C:\Users\jkoromi\Desktop\CurrencyEx\CurrencyExFinal\CurrencyEx\bin\WebGrease.dll
+C:\Users\jkoromi\Desktop\CurrencyEx\CurrencyExFinal\CurrencyEx\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\jkoromi\Desktop\CurrencyEx\CurrencyExFinal\CurrencyEx\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\jkoromi\Desktop\CurrencyEx\CurrencyExFinal\CurrencyEx\bin\Microsoft.AI.Web.xml
+C:\Users\jkoromi\Desktop\CurrencyEx\CurrencyExFinal\CurrencyEx\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\jkoromi\Desktop\CurrencyEx\CurrencyExFinal\CurrencyEx\bin\Microsoft.ApplicationInsights.xml
+C:\Users\jkoromi\Desktop\CurrencyEx\CurrencyExFinal\CurrencyEx\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\jkoromi\Desktop\CurrencyEx\CurrencyExFinal\CurrencyEx\bin\System.Web.Helpers.xml
+C:\Users\jkoromi\Desktop\CurrencyEx\CurrencyExFinal\CurrencyEx\bin\System.Web.Mvc.xml
+C:\Users\jkoromi\Desktop\CurrencyEx\CurrencyExFinal\CurrencyEx\bin\System.Web.Optimization.xml
+C:\Users\jkoromi\Desktop\CurrencyEx\CurrencyExFinal\CurrencyEx\bin\System.Web.Razor.xml
+C:\Users\jkoromi\Desktop\CurrencyEx\CurrencyExFinal\CurrencyEx\bin\System.Web.WebPages.xml
+C:\Users\jkoromi\Desktop\CurrencyEx\CurrencyExFinal\CurrencyEx\bin\System.Web.WebPages.Deployment.xml
+C:\Users\jkoromi\Desktop\CurrencyEx\CurrencyExFinal\CurrencyEx\bin\System.Web.WebPages.Razor.xml
+C:\Users\jkoromi\Desktop\CurrencyEx\CurrencyExFinal\CurrencyEx\bin\Antlr3.Runtime.pdb
+C:\Users\jkoromi\Desktop\CurrencyEx\CurrencyExFinal\CurrencyEx\bin\Newtonsoft.Json.xml
+C:\Users\jkoromi\Desktop\CurrencyEx\CurrencyExFinal\CurrencyEx\bin\EntityFramework.xml
+C:\Users\jkoromi\Desktop\CurrencyEx\CurrencyExFinal\CurrencyEx\bin\EntityFramework.SqlServer.xml
+C:\Users\jkoromi\Desktop\CurrencyEx\CurrencyExFinal\CurrencyEx\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\jkoromi\Desktop\CurrencyEx\CurrencyExFinal\CurrencyEx\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\jkoromi\Desktop\CurrencyEx\CurrencyExFinal\CurrencyEx\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\jkoromi\Desktop\CurrencyEx\CurrencyExFinal\CurrencyEx\bin\Microsoft.Owin.xml
+C:\Users\jkoromi\Desktop\CurrencyEx\CurrencyExFinal\CurrencyEx\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\jkoromi\Desktop\CurrencyEx\CurrencyExFinal\CurrencyEx\bin\Microsoft.Owin.Security.xml
+C:\Users\jkoromi\Desktop\CurrencyEx\CurrencyExFinal\CurrencyEx\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\jkoromi\Desktop\CurrencyEx\CurrencyExFinal\CurrencyEx\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\jkoromi\Desktop\CurrencyEx\CurrencyExFinal\CurrencyEx\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\jkoromi\Desktop\CurrencyEx\CurrencyExFinal\CurrencyEx\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\jkoromi\Desktop\CurrencyEx\CurrencyExFinal\CurrencyEx\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\jkoromi\Desktop\CurrencyEx\CurrencyExFinal\CurrencyEx\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\jkoromi\Desktop\CurrencyEx\CurrencyExFinal\CurrencyEx\obj\Debug\CurrencyEx.csprojAssemblyReference.cache
+C:\Users\jkoromi\Desktop\CurrencyEx\CurrencyExFinal\CurrencyEx\obj\Debug\CurrencyEx.csproj.CoreCompileInputs.cache
+C:\Users\jkoromi\Desktop\CurrencyEx\CurrencyExFinal\CurrencyEx\obj\Debug\CurrencyEx.csproj.CopyComplete
+C:\Users\jkoromi\Desktop\CurrencyEx\CurrencyExFinal\CurrencyEx\obj\Debug\CurrencyEx.dll
+C:\Users\jkoromi\Desktop\CurrencyEx\CurrencyExFinal\CurrencyEx\obj\Debug\CurrencyEx.pdb
+C:\Users\8570p\Downloads\CurrencyEx-20181022T075201Z-001\CurrencyEx\CurrencyExFinal\CurrencyEx\bin\ApplicationInsights.config
+C:\Users\8570p\Downloads\CurrencyEx-20181022T075201Z-001\CurrencyEx\CurrencyExFinal\CurrencyEx\bin\roslyn\csc.exe
+C:\Users\8570p\Downloads\CurrencyEx-20181022T075201Z-001\CurrencyEx\CurrencyExFinal\CurrencyEx\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\8570p\Downloads\CurrencyEx-20181022T075201Z-001\CurrencyEx\CurrencyExFinal\CurrencyEx\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\8570p\Downloads\CurrencyEx-20181022T075201Z-001\CurrencyEx\CurrencyExFinal\CurrencyEx\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\8570p\Downloads\CurrencyEx-20181022T075201Z-001\CurrencyEx\CurrencyExFinal\CurrencyEx\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\8570p\Downloads\CurrencyEx-20181022T075201Z-001\CurrencyEx\CurrencyExFinal\CurrencyEx\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\8570p\Downloads\CurrencyEx-20181022T075201Z-001\CurrencyEx\CurrencyExFinal\CurrencyEx\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\8570p\Downloads\CurrencyEx-20181022T075201Z-001\CurrencyEx\CurrencyExFinal\CurrencyEx\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\8570p\Downloads\CurrencyEx-20181022T075201Z-001\CurrencyEx\CurrencyExFinal\CurrencyEx\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\8570p\Downloads\CurrencyEx-20181022T075201Z-001\CurrencyEx\CurrencyExFinal\CurrencyEx\bin\roslyn\vbc.exe
+C:\Users\8570p\Downloads\CurrencyEx-20181022T075201Z-001\CurrencyEx\CurrencyExFinal\CurrencyEx\bin\roslyn\VBCSCompiler.exe
+C:\Users\8570p\Downloads\CurrencyEx-20181022T075201Z-001\CurrencyEx\CurrencyExFinal\CurrencyEx\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\8570p\Downloads\CurrencyEx-20181022T075201Z-001\CurrencyEx\CurrencyExFinal\CurrencyEx\bin\CurrencyEx.dll.config
+C:\Users\8570p\Downloads\CurrencyEx-20181022T075201Z-001\CurrencyEx\CurrencyExFinal\CurrencyEx\bin\CurrencyEx.dll
+C:\Users\8570p\Downloads\CurrencyEx-20181022T075201Z-001\CurrencyEx\CurrencyExFinal\CurrencyEx\bin\CurrencyEx.pdb
+C:\Users\8570p\Downloads\CurrencyEx-20181022T075201Z-001\CurrencyEx\CurrencyExFinal\CurrencyEx\bin\Antlr3.Runtime.dll
+C:\Users\8570p\Downloads\CurrencyEx-20181022T075201Z-001\CurrencyEx\CurrencyExFinal\CurrencyEx\bin\EntityFramework.dll
+C:\Users\8570p\Downloads\CurrencyEx-20181022T075201Z-001\CurrencyEx\CurrencyExFinal\CurrencyEx\bin\EntityFramework.SqlServer.dll
+C:\Users\8570p\Downloads\CurrencyEx-20181022T075201Z-001\CurrencyEx\CurrencyExFinal\CurrencyEx\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\8570p\Downloads\CurrencyEx-20181022T075201Z-001\CurrencyEx\CurrencyExFinal\CurrencyEx\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\8570p\Downloads\CurrencyEx-20181022T075201Z-001\CurrencyEx\CurrencyExFinal\CurrencyEx\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\8570p\Downloads\CurrencyEx-20181022T075201Z-001\CurrencyEx\CurrencyExFinal\CurrencyEx\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\8570p\Downloads\CurrencyEx-20181022T075201Z-001\CurrencyEx\CurrencyExFinal\CurrencyEx\bin\Microsoft.AI.Web.dll
+C:\Users\8570p\Downloads\CurrencyEx-20181022T075201Z-001\CurrencyEx\CurrencyExFinal\CurrencyEx\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\8570p\Downloads\CurrencyEx-20181022T075201Z-001\CurrencyEx\CurrencyExFinal\CurrencyEx\bin\Microsoft.ApplicationInsights.dll
+C:\Users\8570p\Downloads\CurrencyEx-20181022T075201Z-001\CurrencyEx\CurrencyExFinal\CurrencyEx\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\8570p\Downloads\CurrencyEx-20181022T075201Z-001\CurrencyEx\CurrencyExFinal\CurrencyEx\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\8570p\Downloads\CurrencyEx-20181022T075201Z-001\CurrencyEx\CurrencyExFinal\CurrencyEx\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\8570p\Downloads\CurrencyEx-20181022T075201Z-001\CurrencyEx\CurrencyExFinal\CurrencyEx\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\8570p\Downloads\CurrencyEx-20181022T075201Z-001\CurrencyEx\CurrencyExFinal\CurrencyEx\bin\Microsoft.Owin.dll
+C:\Users\8570p\Downloads\CurrencyEx-20181022T075201Z-001\CurrencyEx\CurrencyExFinal\CurrencyEx\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\8570p\Downloads\CurrencyEx-20181022T075201Z-001\CurrencyEx\CurrencyExFinal\CurrencyEx\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\8570p\Downloads\CurrencyEx-20181022T075201Z-001\CurrencyEx\CurrencyExFinal\CurrencyEx\bin\Microsoft.Owin.Security.dll
+C:\Users\8570p\Downloads\CurrencyEx-20181022T075201Z-001\CurrencyEx\CurrencyExFinal\CurrencyEx\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\8570p\Downloads\CurrencyEx-20181022T075201Z-001\CurrencyEx\CurrencyExFinal\CurrencyEx\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\8570p\Downloads\CurrencyEx-20181022T075201Z-001\CurrencyEx\CurrencyExFinal\CurrencyEx\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\8570p\Downloads\CurrencyEx-20181022T075201Z-001\CurrencyEx\CurrencyExFinal\CurrencyEx\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\8570p\Downloads\CurrencyEx-20181022T075201Z-001\CurrencyEx\CurrencyExFinal\CurrencyEx\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\8570p\Downloads\CurrencyEx-20181022T075201Z-001\CurrencyEx\CurrencyExFinal\CurrencyEx\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\8570p\Downloads\CurrencyEx-20181022T075201Z-001\CurrencyEx\CurrencyExFinal\CurrencyEx\bin\Newtonsoft.Json.dll
+C:\Users\8570p\Downloads\CurrencyEx-20181022T075201Z-001\CurrencyEx\CurrencyExFinal\CurrencyEx\bin\Owin.dll
+C:\Users\8570p\Downloads\CurrencyEx-20181022T075201Z-001\CurrencyEx\CurrencyExFinal\CurrencyEx\bin\System.Web.Helpers.dll
+C:\Users\8570p\Downloads\CurrencyEx-20181022T075201Z-001\CurrencyEx\CurrencyExFinal\CurrencyEx\bin\System.Web.Mvc.dll
+C:\Users\8570p\Downloads\CurrencyEx-20181022T075201Z-001\CurrencyEx\CurrencyExFinal\CurrencyEx\bin\System.Web.Optimization.dll
+C:\Users\8570p\Downloads\CurrencyEx-20181022T075201Z-001\CurrencyEx\CurrencyExFinal\CurrencyEx\bin\System.Web.Razor.dll
+C:\Users\8570p\Downloads\CurrencyEx-20181022T075201Z-001\CurrencyEx\CurrencyExFinal\CurrencyEx\bin\System.Web.WebPages.Deployment.dll
+C:\Users\8570p\Downloads\CurrencyEx-20181022T075201Z-001\CurrencyEx\CurrencyExFinal\CurrencyEx\bin\System.Web.WebPages.dll
+C:\Users\8570p\Downloads\CurrencyEx-20181022T075201Z-001\CurrencyEx\CurrencyExFinal\CurrencyEx\bin\System.Web.WebPages.Razor.dll
+C:\Users\8570p\Downloads\CurrencyEx-20181022T075201Z-001\CurrencyEx\CurrencyExFinal\CurrencyEx\bin\WebGrease.dll
+C:\Users\8570p\Downloads\CurrencyEx-20181022T075201Z-001\CurrencyEx\CurrencyExFinal\CurrencyEx\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\8570p\Downloads\CurrencyEx-20181022T075201Z-001\CurrencyEx\CurrencyExFinal\CurrencyEx\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\8570p\Downloads\CurrencyEx-20181022T075201Z-001\CurrencyEx\CurrencyExFinal\CurrencyEx\bin\Microsoft.AI.Web.xml
+C:\Users\8570p\Downloads\CurrencyEx-20181022T075201Z-001\CurrencyEx\CurrencyExFinal\CurrencyEx\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\8570p\Downloads\CurrencyEx-20181022T075201Z-001\CurrencyEx\CurrencyExFinal\CurrencyEx\bin\Microsoft.ApplicationInsights.xml
+C:\Users\8570p\Downloads\CurrencyEx-20181022T075201Z-001\CurrencyEx\CurrencyExFinal\CurrencyEx\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\8570p\Downloads\CurrencyEx-20181022T075201Z-001\CurrencyEx\CurrencyExFinal\CurrencyEx\bin\System.Web.Helpers.xml
+C:\Users\8570p\Downloads\CurrencyEx-20181022T075201Z-001\CurrencyEx\CurrencyExFinal\CurrencyEx\bin\System.Web.Mvc.xml
+C:\Users\8570p\Downloads\CurrencyEx-20181022T075201Z-001\CurrencyEx\CurrencyExFinal\CurrencyEx\bin\System.Web.Optimization.xml
+C:\Users\8570p\Downloads\CurrencyEx-20181022T075201Z-001\CurrencyEx\CurrencyExFinal\CurrencyEx\bin\System.Web.Razor.xml
+C:\Users\8570p\Downloads\CurrencyEx-20181022T075201Z-001\CurrencyEx\CurrencyExFinal\CurrencyEx\bin\System.Web.WebPages.xml
+C:\Users\8570p\Downloads\CurrencyEx-20181022T075201Z-001\CurrencyEx\CurrencyExFinal\CurrencyEx\bin\System.Web.WebPages.Deployment.xml
+C:\Users\8570p\Downloads\CurrencyEx-20181022T075201Z-001\CurrencyEx\CurrencyExFinal\CurrencyEx\bin\System.Web.WebPages.Razor.xml
+C:\Users\8570p\Downloads\CurrencyEx-20181022T075201Z-001\CurrencyEx\CurrencyExFinal\CurrencyEx\bin\Antlr3.Runtime.pdb
+C:\Users\8570p\Downloads\CurrencyEx-20181022T075201Z-001\CurrencyEx\CurrencyExFinal\CurrencyEx\bin\Newtonsoft.Json.xml
+C:\Users\8570p\Downloads\CurrencyEx-20181022T075201Z-001\CurrencyEx\CurrencyExFinal\CurrencyEx\bin\EntityFramework.xml
+C:\Users\8570p\Downloads\CurrencyEx-20181022T075201Z-001\CurrencyEx\CurrencyExFinal\CurrencyEx\bin\EntityFramework.SqlServer.xml
+C:\Users\8570p\Downloads\CurrencyEx-20181022T075201Z-001\CurrencyEx\CurrencyExFinal\CurrencyEx\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\8570p\Downloads\CurrencyEx-20181022T075201Z-001\CurrencyEx\CurrencyExFinal\CurrencyEx\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\8570p\Downloads\CurrencyEx-20181022T075201Z-001\CurrencyEx\CurrencyExFinal\CurrencyEx\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\8570p\Downloads\CurrencyEx-20181022T075201Z-001\CurrencyEx\CurrencyExFinal\CurrencyEx\bin\Microsoft.Owin.xml
+C:\Users\8570p\Downloads\CurrencyEx-20181022T075201Z-001\CurrencyEx\CurrencyExFinal\CurrencyEx\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\8570p\Downloads\CurrencyEx-20181022T075201Z-001\CurrencyEx\CurrencyExFinal\CurrencyEx\bin\Microsoft.Owin.Security.xml
+C:\Users\8570p\Downloads\CurrencyEx-20181022T075201Z-001\CurrencyEx\CurrencyExFinal\CurrencyEx\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\8570p\Downloads\CurrencyEx-20181022T075201Z-001\CurrencyEx\CurrencyExFinal\CurrencyEx\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\8570p\Downloads\CurrencyEx-20181022T075201Z-001\CurrencyEx\CurrencyExFinal\CurrencyEx\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\8570p\Downloads\CurrencyEx-20181022T075201Z-001\CurrencyEx\CurrencyExFinal\CurrencyEx\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\8570p\Downloads\CurrencyEx-20181022T075201Z-001\CurrencyEx\CurrencyExFinal\CurrencyEx\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\8570p\Downloads\CurrencyEx-20181022T075201Z-001\CurrencyEx\CurrencyExFinal\CurrencyEx\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\8570p\Downloads\CurrencyEx-20181022T075201Z-001\CurrencyEx\CurrencyExFinal\CurrencyEx\obj\Debug\CurrencyEx.csprojResolveAssemblyReference.cache
+C:\Users\8570p\Downloads\CurrencyEx-20181022T075201Z-001\CurrencyEx\CurrencyExFinal\CurrencyEx\obj\Debug\CurrencyEx.dll
+C:\Users\8570p\Downloads\CurrencyEx-20181022T075201Z-001\CurrencyEx\CurrencyExFinal\CurrencyEx\obj\Debug\CurrencyEx.pdb
