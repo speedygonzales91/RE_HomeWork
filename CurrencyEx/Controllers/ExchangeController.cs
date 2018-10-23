@@ -24,22 +24,34 @@ namespace CurrencyEx.Controllers
         }
 
         [HttpPost]
-        public string Index(ExchangeViewModel viewModel)
+        public ActionResult Index(ExchangeViewModel viewModel)
         {
-            var rates = new RateCollectionModel();
+            if (ModelState.IsValid)
+            {
+                var rates = new RateCollectionModel();
 
-            if (rates.GetLatestRate(viewModel.ToCurrency) == null)
-                throw new NoInputEnteredException(viewModel.ToCurrency);
+                if (rates.GetLatestRate(viewModel.ToCurrency) == null)
+                    throw new NoInputEnteredException(viewModel.ToCurrency);
 
 
-            if (rates.GetLatestRate(viewModel.FromCurrency) == null)
-                throw new NoInputEnteredException(viewModel.FromCurrency);
+                if (rates.GetLatestRate(viewModel.FromCurrency) == null)
+                    throw new NoInputEnteredException(viewModel.FromCurrency);
 
-            viewModel.Result = rates.GetLatestRate(viewModel.ToCurrency) /
-                rates.GetLatestRate(viewModel.FromCurrency) *
-                viewModel.FromAmount;
+                viewModel.Result = rates.GetLatestRate(viewModel.ToCurrency) /
+                    rates.GetLatestRate(viewModel.FromCurrency) *
+                    viewModel.FromAmount;
 
-            return String.Format("{0} {1} is {2:0.00} {3}", viewModel.FromAmount, viewModel.FromCurrency, viewModel.Result, viewModel.ToCurrency);   
+                var content = String.Format("{0} {1} is {2:0.00} {3}", viewModel.FromAmount, viewModel.FromCurrency, viewModel.Result, viewModel.ToCurrency);
+
+                return Content(content);
+            }
+            else
+            {
+                var message = string.Join(" | ", ModelState.Values
+                                         .SelectMany(v => v.Errors)
+                                         .Select(e => e.ErrorMessage));
+                return Content(message);
+            }
         }
     }
 }
